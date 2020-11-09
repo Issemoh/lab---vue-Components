@@ -1,0 +1,12 @@
+{
+    "name": "student-sign-in-api",
+    "description": "Vue and Express API Student Sign In app",
+    "author": "Isse",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
